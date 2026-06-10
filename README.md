@@ -1,11 +1,17 @@
-### Hi there 👋, my name is Abrahán De la Cruz Guerra (aka 4bexx)
+### Hi there 👋, my name is Abrahán De la Cruz Guerra (4bexx)
+
 ## 👾 About Me
 
-Aspiring Penetration Tester and Computer Systems Engineering student.
+🎓 Cybersecurity Engineering Student
 
-I spend most of my time learning Linux, networking, web technologies, and cybersecurity through hands-on practice. My current focus is building the technical foundations required for offensive security roles.
+🔐 Offensive Security Enthusiast
+
+Aspiring Penetration Tester focused on developing practical skills through hands-on labs, scripting, networking, and web security.
+
+I spend most of my time learning Linux, networking, web technologies, and security concepts while building the technical foundations required for offensive security roles.
 
 ### Current Focus
+
 - Linux
 - Networking
 - JavaScript
